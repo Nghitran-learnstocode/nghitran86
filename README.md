@@ -1,3 +1,3 @@
-Hj
+Hi
 ## Welcome to GitHub Pages
-This is the test
+This is where I practice my Data analytics and some programming languages
