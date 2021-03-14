@@ -35,7 +35,7 @@
   --line-height-normal: 2.7;
   --line-height-small: 1.2;
 
-  --black: rgb(197, 27, 132);
+  --black: rgb(136, 51, 90);
   --pink: #351229;
   --white: #f0e9f2;
   --white-1: #e5e5e6da;
@@ -186,6 +186,9 @@ p {
 @media(max-width: 500px) {
   p { 
       max-width: var(--container-small-width);
+  }
+  p{
+    max-width:var(--guttter-small-width);
   }
 }
 
