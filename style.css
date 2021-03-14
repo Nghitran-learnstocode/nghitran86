@@ -411,7 +411,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
   background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-      url('./images/header.jpg');
+      url('/Users/nghitran/Downloads/103973868_10221285141453620_417865055865881284_n.jpg');
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -502,6 +502,7 @@ body:not(.user-is-tabbing) a:focus {
   .work__image-box {
       flex: 1;
       margin: 0 0 0 10rem;
+  
   }
 }
 
